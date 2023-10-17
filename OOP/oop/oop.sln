@@ -5,6 +5,16 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2F213B51-69E8-4516-9274-93C63C009417}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{33DF4ABA-2672-4E50-8D89-6BB5E38A5030}"
+	ProjectSection(SolutionItems) = preProject
+		02-Introduction.md = 02-Introduction.md
+		03 The Four Pillars.md = 03 The Four Pillars.md
+		Nouns Verbs Adjetives and Entities.md = Nouns Verbs Adjetives and Entities.md
+		Other Object-oriented Vocabulary.md = Other Object-oriented Vocabulary.md
+		Diagram Cohesion.md = Diagram Cohesion.md
+		Pillars OOP.md = Pillars OOP.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
