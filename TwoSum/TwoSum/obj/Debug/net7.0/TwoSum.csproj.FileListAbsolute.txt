@@ -1,0 +1,15 @@
+D:\testApp\git\practi\TwoSum\TwoSum\bin\Debug\net7.0\TwoSum.exe
+D:\testApp\git\practi\TwoSum\TwoSum\bin\Debug\net7.0\TwoSum.deps.json
+D:\testApp\git\practi\TwoSum\TwoSum\bin\Debug\net7.0\TwoSum.runtimeconfig.json
+D:\testApp\git\practi\TwoSum\TwoSum\bin\Debug\net7.0\TwoSum.dll
+D:\testApp\git\practi\TwoSum\TwoSum\bin\Debug\net7.0\TwoSum.pdb
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\TwoSum.csproj.AssemblyReference.cache
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfoInputs.cache
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfo.cs
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\TwoSum.csproj.CoreCompileInputs.cache
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\TwoSum.dll
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\refint\TwoSum.dll
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\TwoSum.pdb
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\TwoSum.genruntimeconfig.cache
+D:\testApp\git\practi\TwoSum\TwoSum\obj\Debug\net7.0\ref\TwoSum.dll
